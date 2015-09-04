@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/itsmechlark/devise_database_pwd.svg)](https://travis-ci.org/itsmechlark/devise_database_pwd)
